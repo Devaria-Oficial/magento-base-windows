@@ -6,3 +6,4 @@ Fornecer um ambiente base para criação de uma base windows.
 
 - vagrant (https://www.vagrantup.com/downloads)
 - plugin vagrant para docker-compose (https://github.com/leighmcculloch/vagrant-docker-compose)
+- virtual box (https://www.virtualbox.org/wiki/Downloads)
